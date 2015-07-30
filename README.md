@@ -15,7 +15,7 @@
 
 
 **Tabs for hierarchy**
-```
+```javascript
 function alertSomething() {
 »   alert('Something!');
 }
@@ -23,7 +23,7 @@ function alertSomething() {
 
 **Spaces for aligning**
 
-```
+```javascript
 var foo = '',
 ····bar = '',
 ····baz = '';
@@ -31,7 +31,7 @@ var foo = '',
 
 **Both mixed**
 
-```
+```javascript
 function alertSomething() {
 »   var foo = 'Something',
 »   ····bar = '!';
