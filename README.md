@@ -1,5 +1,7 @@
 # Code Guide
 
+All code in any code-base should look like a single person typed it, no matter how many people contributed.
+
 ## General
 
 * write **DRY** (Don't repeat yourself) Code
