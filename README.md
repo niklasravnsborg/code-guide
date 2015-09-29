@@ -5,7 +5,7 @@ All code in any code-base should look like a single person typed it, no matter h
 ## General
 
 * write **DRY** (Don't repeat yourself) Code
-* do document and commenting your code
+* do document and comment your code
 * consistent naming scheme per language (further defined in the language guidelines)
 * avoid deep nesting of code
 * keep short line length
