@@ -77,6 +77,19 @@ The subject contains succinct description of the change:
 * don't capitalize first letter
 * no dot (.) at the end
 
+In case you want to commit a **fix**, use the present passive voice to describe the problem you fix:
+```
+fix: passwords aren't encrypted
+fix: emojis are missing
+...
+```
+instead of
+```
+fix: encrypt passwords
+fix: add emojis
+...
+```
+
 ### Body
 Just as in the **subject**, use the imperative, present tense: "change" not "changed" nor "changes".
 The body further specifies what changed and may include the motivation for the change and contrast this with previous behavior.
