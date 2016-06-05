@@ -78,17 +78,12 @@ The subject contains succinct description of the change:
 * no dot (.) at the end
 
 In case you want to commit a **fix**, use the present passive voice to describe the problem you fix:
-```
-fix: passwords aren't encrypted
-fix: emojis are missing
-...
-```
-instead of
-```
-fix: encrypt passwords
-fix: add emojis
-...
-```
+
+`fix: passwords aren't encrypted`
+
+`fix: emojis are missing`
+
+instead of ~~`fix: encrypt passwords`~~ or ~~`fix: add emojis`~~
 
 ### Body
 Just as in the **subject**, use the imperative, present tense: "change" not "changed" nor "changes".
