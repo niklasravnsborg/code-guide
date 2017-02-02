@@ -100,6 +100,9 @@ The body further specifies what changed and may include the motivation for the c
 ## PHP
 
 * follow [PSR-2](http://www.php-fig.org/psr/psr-2)
+* follow [PHPDoc](https://www.phpdoc.org/docs/latest/references/phpdoc/index.html)
+	* the `@param` tag is followed by two spaces, the argument type, two more spaces and the variable name
+	* use the short term for all primitives
 
 ## Ruby
 
