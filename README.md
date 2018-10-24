@@ -69,6 +69,7 @@ Must be one of the following:
 * **test**: Adding missing tests
 * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation
   generation
+* **content**: Changes to site content or texts for websites or marketing
 
 ### Subject
 The subject contains succinct description of the change:
