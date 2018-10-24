@@ -95,7 +95,7 @@ The body further specifies what changed and may include the motivation for the c
 
 ## JavaScript
 
-* follow [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml)
+* follow [Google JavaScript Style Guide](http://google.github.io/styleguide/jsguide.html)
 
 ## PHP
 
